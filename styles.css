@@ -41,7 +41,8 @@ body {
 
 .programingLanguages,
 .education,
-.profiles {
+.profiles,
+.languages {
   margin-top: 25px;
   text-align: left;
 }
@@ -74,7 +75,6 @@ a {
 
 .poziom h1 {
   text-align: center;
-  color: rgb(82, 82, 82);
 }
 
 .jobs {
@@ -82,4 +82,8 @@ a {
   gap: 15px;
   justify-content: center;
   align-items: center;
+}
+
+.flag {
+  width: 16px;
 }
