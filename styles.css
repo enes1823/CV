@@ -64,3 +64,22 @@ a {
   text-decoration: none;
   color: rgb(82, 82, 82);
 }
+
+.job {
+  background-color: rgb(226, 226, 226);
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.poziom h1 {
+  text-align: center;
+  color: rgb(82, 82, 82);
+}
+
+.jobs {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+}
